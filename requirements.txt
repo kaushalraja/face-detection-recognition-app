@@ -1,5 +1,4 @@
 streamlit
-sqlite3
 face_recognition
 pickle
 insightface
@@ -7,5 +6,3 @@ opencv-python
 numpy
 Pillow
 onnxruntime
-cmake
-dlib
